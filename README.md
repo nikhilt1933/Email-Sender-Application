@@ -1,5 +1,6 @@
 # Email-Sender-Application
 
+
 A desktop application for sending email. 
 
 Details to be entered by user:
@@ -10,4 +11,7 @@ Details to be entered by user:
 
 Then click on Send button and boom!
 
-#No need for opening gmail.
+
+
+## No opening mail.
+## Composing email was never this easy.
