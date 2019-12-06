@@ -15,3 +15,6 @@ Then click on Send button and boom!
 
 ## No opening mail.
 ## Composing email was never this easy.
+
+
+# As Always, pull requests are always welcomed.
