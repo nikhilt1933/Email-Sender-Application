@@ -17,4 +17,4 @@ def send_mail(gmail, to, password, message):
     
     s.quit()
     
-#send_mail('soni7.nikhil@gmail.com','nikhilthadeshwar2@gmail.com','aksharnikhil','Swaminarayan')
+#send_mail('soni7.nikhil@gmail.com','nikhilthadeshwar2@gmail.com','aksharnikhil','Hello')
